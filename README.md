@@ -7,7 +7,7 @@ The game itself is simply used to showcase my use of the concepts listed above. 
 The purpose of devloping this game was to exercise my skills in the Godot engine. This has helped me better understand the background concepts of game development.
 
 
-[Rock Pusher: The Game - Demonstration Video]([http://youtube.link.goes.here](https://youtu.be/LS7pTjtTS0w))
+[Rock Pusher: The Game - Demonstration Video](https://youtu.be/LS7pTjtTS0w)
 
 # Development Environment
 
@@ -19,8 +19,8 @@ The language used in Godot is called GDScript. It is written in a Python-esque s
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Godot Official Documentation]([http://url.link.goes.here](https://docs.godotengine.org/en/stable/index.html))
-* [Godot Help Forum]([http://url.link.goes.here](https://godotforums.org/t/godot-4-x))
+* [Godot Official Documentation](https://docs.godotengine.org/en/stable/index.html)
+* [Godot Help Forum](https://godotforums.org/t/godot-4-x)
 
 # Future Work
 * I plan to implement the use of other animations included in the open source sprite sheet that I used, includinmg a sword swing animation.
